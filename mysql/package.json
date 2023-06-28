@@ -1,0 +1,16 @@
+{
+  "name": "data_paractice.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data_download_100w.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.2.5",
+    "knex": "^2.3.0",
+    "mysql": "^2.18.1"
+  }
+}
